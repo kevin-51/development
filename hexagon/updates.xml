@@ -1,0 +1,24 @@
+<!-- DATABASE OF UPDATES -->
+
+
+
+<update id="0.1" date="24-02-2024">
+    <title>Airing test version</title>
+    <notes>This update I aired the test version of https://hexagon.kevin51.nl.</notes>
+</update>
+<update id="1.0" date="24-02-2024">
+    <title>Official release</title>
+    <notes>This update releases the official version of the hexagon page.</notes>
+</update>
+<update id="1.0.1" date="24-02-2024">
+    <title>Language correction</title>
+    <notes>"aankondeging" to "aankondiging"</notes>
+</update>
+<update id="1.0.2" date="25-02-2024">
+    <title>Language correction</title>
+    <notes>"." to "?"</notes>
+</update>
+<update id="1.0.3" date="25-02-2024">
+    <title>Language correction</title>
+    <notes>" " to "en"</notes>
+</update>

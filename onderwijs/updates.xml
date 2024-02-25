@@ -1,0 +1,48 @@
+<!-- DATABASE OF UPDATES -->
+
+
+
+<update id="0.1" date="23-02-2024">
+    <title>Airing test version</title>
+    <notes>This update I aired the test version of https://onderwijs.kevin51.nl.</notes>
+</update>
+<update id="0.2" date="23-02-2024">
+    <title>Language and code edit</title>
+    <notes>"PABO" to "pabo" and added a credits section for the images.</notes>
+</update>
+<update id="0.3" date="23-02-2024">
+    <title>Code edit</title>
+    <notes>Added a favicon</notes>
+</update>
+<update id="0.4" date="23-02-2024">
+    <title>Text addition</title>
+    <notes>"Later volgt meer"</notes>
+</update>
+<update id="0.5" date="23-02-2024">
+    <title>Code edit</title>
+    <notes>Added a navbar</notes>
+</update>
+<update id="0.6" date="23-02-2024">
+    <title>Code edit</title>
+    <notes>Edited the margin of the body</notes>
+</update>
+<update id="0.7" date="23-02-2024">
+    <title>Code edit</title>
+    <notes>Removed the target from the home-button.</notes>
+</update>
+<update id="0.8" date="23-02-2024">
+    <title>Title correction</title>
+    <notes>"Sven Bouman" to "Sven in het onderwijs"</notes>
+</update>
+<update id="0.9" date="23-02-2024">
+    <title>Code edit</title>
+    <notes>Edited the flex of the header.</notes>
+</update>
+<update id="0.10" date="23-02-2024">
+    <title>Code edit</title>
+    <notes>Removed white background from the nav-a.</notes>
+</update>
+<update id="0.11" date="23-02-2024">
+    <title>Text addition</title>
+    <notes>"Later volgt meer"</notes>
+</update>
