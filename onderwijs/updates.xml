@@ -4,7 +4,7 @@
 
 <update id="0.1" date="23-02-2024">
     <title>Airing test version</title>
-    <notes>This update I aired the test version of https://onderwijs.kevin51.nl.</notes>
+    <notes>This update I aired the test version of <a target="_blank" href="https://onderwijs.kevin51.nl">onderwijs.kevin51.nl</a>.</notes>
 </update>
 <update id="0.2" date="23-02-2024">
     <title>Language and code edit</title>
