@@ -22,3 +22,7 @@
     <title>Text addition</title>
     <notes>"Over kevin51.nl" section has been added</notes>
 </update>
+<update id="0.5.1" date="25-02-2024">
+    <title>Code lay-out edit</title>
+    <notes>Edited the lay-out of paragraphs so that they use a new line after every sentence</notes>
+</update>

@@ -46,3 +46,7 @@
     <title>Text addition</title>
     <notes>"Later volgt meer"</notes>
 </update>
+<update id="0.12" date="05-03-2024">
+    <title>New blog post "art-sb-20240305-01"</title>
+    <notes>New blog post added to code. Also edited the previous blog post.</notes>
+</update>
