@@ -50,3 +50,15 @@
     <title>New blog post "art-sb-20240305-01"</title>
     <notes>New blog post added to code. Also edited the previous blog post.</notes>
 </update>
+<update id="0.12.1" date="05-03-2024">
+    <title>Fixed image</title>
+    <notes>Had the old image still displayed.</notes>
+</update>
+<update id="0.12.2" date="05-03-2024">
+    <title>Language correction</title>
+    <notes>Line 198 between brackets.</notes>
+</update>
+<update id="0.12.3" date="06-03-2024">
+    <title>Fixed the leader</title>
+    <notes>Leader was the same as the previous post.</notes>
+</update>
