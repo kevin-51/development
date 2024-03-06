@@ -22,3 +22,7 @@
     <title>Language correction</title>
     <notes>" " to "en"</notes>
 </update>
+<update id="1.0.4" date="06-03-2024">
+    <title>Added title to page</title>
+    <notes>"HEXAGON"</notes>
+</update>

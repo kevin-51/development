@@ -62,3 +62,7 @@
     <title>Fixed the leader</title>
     <notes>Leader was the same as the previous post.</notes>
 </update>
+<update id="0.12.4" date="06-03-2024">
+    <title>Added title to page</title>
+    <notes>"Sven in het onderwijs"</notes>
+</update>

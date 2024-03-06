@@ -26,3 +26,7 @@
     <title>Code lay-out edit</title>
     <notes>Edited the lay-out of paragraphs so that they use a new line after every sentence</notes>
 </update>
+<update id="0.5.2" date="06-03-2024">
+    <title>Added title to page</title>
+    <notes>"Sven Bouman"</notes>
+</update>
